@@ -8,5 +8,6 @@ Kelas   : TI 20 B1
 *Pada pertemuan 2 mata kuliah Pemrograman Web, saya akan melakukan eberapa perintah HTML*
 
 - Menampilkan Title HTML pada browser<br>
-![Gambar Title HTML Dasar](pic/lab1tagdasar.png)
+![Gambar Title HTML Dasar](Pic/lab1tagdasar.png)
+
 

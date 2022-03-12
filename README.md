@@ -117,3 +117,23 @@ Disini bisa dilihat bahwa gambar sudah berhasil disisipkan, namun ukuran atau ga
 
 Tampilan seteleah dirubah ukuran gambar :<br>
 ![Menyisipkan Gambar 2](Pic/menyisipkangambar2.png)<br>
+
+## 5. Menambahkan Hyperlink
+Pada poin terakhir disini saya akan meambahkan hyperlink halaman 1, halaman 2 dan halaman web Google. <br>
+Pada halaman 2 isinya adalah jawaban dari soal praktikum
+
+Berikut untuk source codenya :<br>
+```
+<nav>
+    <div align="center">
+    <a href="lab1_tag_dasar.html" style="background-color:lightcoral">Dasar HTML</a>
+    <a href="lab1_halaman2.html" style="background-color: thistle;">Halaman 2</a>
+    <a href="http://www.google.com" style="background-color: lime
+    ;">Halaman Web Eksternal Google</a>
+    </nav>
+    </div>
+    <hr>
+```
+
+Dan inilah tampilannya : <br>
+![Menambahkan Hyperlink](Pic/menambahkanhyperlink.png)<br>

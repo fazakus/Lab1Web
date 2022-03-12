@@ -10,4 +10,7 @@ Kelas   : TI 20 B1
 - Menampilkan Title HTML pada browser<br>
 ![Gambar Title HTML Dasar](Pic/lab1tagdasar.png)
 
-
+<br>
+1. Membuat Paragraf <br>
+Pada poin ini saya akan membuat paragraf pada file HTML.<br>
+Pada sintax p bertujuan untuk membuat paragraf baru. Berikut tampilannya. <br>

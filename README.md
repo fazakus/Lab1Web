@@ -40,9 +40,32 @@ Berikut adalah tampilannya : <br>
 <b>Merubah Paragraf</b><br>
 Untuk membuat paragraf menjadi ditengah dan misalnya rata kanan, maka source code dirubah menjadi seperti berikut : <br>
 ``` <!-- Ini adalah paragraf pertama -->
-<p align=”center”>Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+<p align="center">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
 <!-- Ini adalah paragraf kedua -->
 <p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
 ```
 
 Berikut tampilannya :<br>
+![Merubah Paragraf](Pic/merubahparagraf.png)<br>
+Dalam tampilan tersebut terlihat perbedaan antara yang belum dirubah paragrafnya dan yang sudah.<br>
+
+## 2. Menambahkan Judul (Heading) <br>
+
+Judul memiliki 6 level, yaitu <i>h1 sampai dengan h6</i>. <br>
+Disini saya akan menambahkan judul h1 pada oaragraf pertama dan judul h2 pada paragraf kedua.<br>
+Maka dari itu, source code saya rubah menjadi : <br>
+```
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- Ini adalah paragraf pertama -->
+<p align="center">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+<!-- Ini adalah paragraf kedua -->
+<p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html. </p>
+```
+
+Berikut untuk tampilannya : <br>
+![Menambahkan Judul](Pic/menambahkanheading.png)<br>
+

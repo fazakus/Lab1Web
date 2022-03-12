@@ -90,4 +90,30 @@ Disini selain saya rubah format text, saya juga rubah alignment pada kedua parag
 Maka, tampilannya akan berubah menjadi seperti berikut : <br>
 ![Memformat Teks](Pic/merubahformatteks.png)<br>
 
+## 4. Menyisipkan Gambar <br>
 
+Disini saya akan menyisipkan gambar logo UPB. File gambar logo UPB diletakkan satu folder dengan file html.<br>
+
+Berikut source codenya :<br>
+
+```
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="Logo UPB.png" title="Logo Univeritas Pelita Bangsa">
+```
+
+Berikut tampilannya : <br>
+![Menyisipkan Gambar 1](Pic/menyisipkangambar1.png)<br>
+
+Disini bisa dilihat bahwa gambar sudah berhasil disisipkan, namun ukuran atau gambarnya terlalu besar. Maka dari itu gambar logo UPB tersebut akan saya perkecil, maka source code berubah menjadi : <br>
+
+```
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="Logo UPB.png" width="320" height="240px" title="Logo Univeritas Pelita Bangsa">
+```
+
+Tampilan seteleah dirubah ukuran gambar :<br>
+![Menyisipkan Gambar 2](Pic/menyisipkangambar2.png)<br>

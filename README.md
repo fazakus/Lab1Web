@@ -69,3 +69,25 @@ Maka dari itu, source code saya rubah menjadi : <br>
 Berikut untuk tampilannya : <br>
 ![Menambahkan Judul](Pic/menambahkanheading.png)<br>
 
+## 3. Memformat Text
+
+Setelah selesai memberi Judul, disini saya akan mencoba untuk merubah format text seperti membuat text with background, bold text, italic text, underlined text, smaller text, subscript text dan superscript.<br>
+
+Disini selain saya rubah format text, saya juga rubah alignment pada kedua paragraf, yaitu rata kanan-kiri pada paragraf pertama dan rata kiri pada paragraf kedua, berikut adalah source codenya: <br>
+
+```
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- Ini adalah paragraf pertama -->
+<p align="justify">Kami sedang belajar <mark style="background-color:yellow">HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat adalah <mark style="background-color:aqua">membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML</mark>.</p>
+
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+<!-- Ini adalah paragraf kedua -->
+<p >Ini <small>merupakan sebuah paragraf</small> yang <del>terdiri dari</del>beberapa kalimat<sub> yang </sub>saling <sup>mendukung</sup>sehingga <i>menjadi satu kesatuan</i>. <mark style="background-color: grey">Paragraf dibuat dengan menggunakan tag dasar html.</mark> </p>
+```
+
+Maka, tampilannya akan berubah menjadi seperti berikut : <br>
+![Memformat Teks](Pic/merubahformatteks.png)<br>
+
+

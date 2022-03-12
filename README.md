@@ -14,3 +14,4 @@ Kelas   : TI 20 B1
 1. Membuat Paragraf <br>
 Pada poin ini saya akan membuat paragraf pada file HTML.<br>
 Pada sintax p bertujuan untuk membuat paragraf baru. Berikut tampilannya. <br>
+![Gambar Membuat Paragraf 1](Pic/membuatparagraf1.png)

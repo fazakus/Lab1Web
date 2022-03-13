@@ -1,9 +1,12 @@
 # Lab1Web
-Tugas Praktikum Pertemuan 2
+
+## Tugas Praktikum Pertemuan 2
 
 Nama    : Faza Ardan Kusuma <br>
 NIM     : 312010001<br>
 Kelas   : TI 20 B1
+
+<hr>
 
 Pertama kita buat tag HTML terlebih dahulu dengan nama <b>lab1_tag_dasar.html</b> dan tambahkan tag dasar dokumen HTML.<br>
 
@@ -137,3 +140,23 @@ Berikut untuk source codenya :<br>
 
 Dan inilah tampilannya : <br>
 ![Menambahkan Hyperlink](Pic/menambahkanhyperlink.png)<br>
+
+<hr>
+
+## Soal Praktikum
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?<br>
+2. Apa perbedaan dari tag \<p> dengan tag \<br>, berikan penjelasannya!<br>
+3. Apa perbedaan atribut title dan alt pada tag \<img>, berikan penjelasannya!<br>
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?<br>
+
+## Jawaban
+
+1. Ada, beberapa perubahan tidak muncul pada web browser atau terkadang ada yang menjadi acak.<br>
+2. Tag \<p> berfungsi untuk membuat sebuah paragraf baru, sedangkan \<br> adalah untuk membuat baris baru seperti fungsi enter pada keyboard.<br>
+3. Tag title berfungsi untuk memberi nama pada gambar ketika kursor mengenai gambar tersebut, baru akan muncul nama gambar. Sedangkan alt berfungsi untuk membuat deskripsi gambar apabila gambar tersebut gagal ditampilkan, atau sebagai deskripsi gambar bila gambar gagal untuk ditampilkan.<br>
+4. Menurut saya perlu kalau hanya untuk proporsional bisa hanya dengan menggunakan width, karena bila kita hanya setting width, height akan mengikuti, misal seperti yang dalam menyisipkan gambar, gambar Logo UPB saya perkecil dengan width 320, dan ternyata heightnya mengikuti otomatis menjadi 240 tanpa saya setting. Tapi kalau ingin sesuai keinginan, bisa menggunakan width dan height.<br>
+5. Atribut _blank berfungsi untuk membuka halaman pada tab baru.<br>
+Atribut _self berfungsi untuk membuka halaman pada tab yang sudah terbuka.<br>
+Atribut _top berfungsi untuk membuka halaman pada window baru dan layar penuh.<br>
+Sedangkan atribut _parent berfungsi untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
